@@ -44,6 +44,6 @@ The case focuses on automating the classification of batik images, a task that i
 - Training Time: Training deep learning models on a dataset with high variability in patterns like batik can be computationally expensive, especially for scratch models.
 
 # Conclusion
-After evaluating the performance of both the scratch models and transfer learning models, EfficientNet-B0 with dropout and batch normalization modifications provided the best performance with a testing accuracy of 73.33%. Among the scratch models, the best performance achieved was 80% testing accuracy using a CNN model with dropout and an increased number of epochs.
+After evaluating the performance of both the scratch models and transfer learning models, FixEfficientNet-B2 original  provided the best performance with a testing accuracy of 86.67%. Among the scratch models, model 1 provided the best performance achieved was 80% testing accuracy using a CNN model with dropout and an increased number of epochs.
 
 The project demonstrated that transfer learning, despite requiring less time and computational resources, can provide competitive results compared to scratch-built models. However, custom-built models still showed potential for improvement with additional training time and hyperparameter tuning.
