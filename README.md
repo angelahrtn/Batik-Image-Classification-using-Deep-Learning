@@ -1,1 +1,1 @@
-# angelahrtn-Batik-Image-Classification-using-Deep-Learning
+# Batik-Image-Classification
